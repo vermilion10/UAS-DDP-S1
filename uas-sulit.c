@@ -16,11 +16,11 @@ void sortirDuren(int arr[], int n) {
     }
 }
 
-int hitungDuren(int arr[], int n, int target){
+int hitungDuren(int arr[], int n, int target){ 
     int count = 0;
-    for (int i = 0; i < n; i ++){
+    for (int i = 0; i < n; i++){
         if (arr[i] == target){
-            count ++;
+            count++;
         }
     }
     return count;
@@ -36,7 +36,7 @@ void inputDuren(int arr[], int *n, int *target){
 }
 
 void printDuren(int arr[], int n){
-    for (int i = 0; i < n; i ++){
+    for (int i = 0; i < n; i++){
         printf("%d ", arr[i]);
     }
     printf("\n");
