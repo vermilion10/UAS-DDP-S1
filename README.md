@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spesifikasi Soal UAS</title>
+    Spesifikasi Soal UAS (diambil dari e-learning prodi)
+    <p><strong>Disclaimer:</strong> Beberapa file dalam proyek ini, termasuk file <em>uas-mudah.c</em> dan <em>uas-sedang.c</em>, bukanlah hasil karya asli saya sepenuhnya. Kredit sepenuhnya diberikan kepada pencipta aslinya (CTTO: Credit To The Owner).</p>
 </head>
 <body>
     <h1>Menyortir Berat Durian (Sulit)</h1>
@@ -12,7 +13,7 @@
     <p>Buatlah program untuk melakukan sortir dan mencari jumlah durian yang memiliki berat tertentu dari sejumlah N durian yang diinputkan.</p>
     <h2>Spesifikasi Input</h2>
     <ul>
-        <li>Baris pertama diisi dengan <strong>N</strong> jumlah durian yang diinputkan dengan tipe integer (0 &lt; N &lt; )</li>
+        <li>Baris pertama diisi dengan <strong>N</strong> jumlah durian yang diinputkan dengan tipe integer (0 &lt; N &lt; 200)</li>
         <li>Baris kedua diisi dengan berat (<strong>B</strong>) durian dalam satuan kg bertipe integer (N &gt; 0) sejumlah N durian yang dipisahkan oleh spasi. Input berat durian dapat diacak tidak terurut</li>
         <li>Baris ketiga diisi dengan berat durian yang ingin dicari</li>
     </ul>
