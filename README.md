@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     Spesifikasi Soal UAS (diambil dari e-learning prodi)
-    <p><strong>Disclaimer:</strong> Beberapa file dalam proyek ini, termasuk file <em>uas-mudah.c</em> dan <em>uas-sedang.c</em>, bukanlah hasil karya asli saya sepenuhnya. Kredit sepenuhnya diberikan kepada pencipta aslinya (CTTO: Credit To The Owner).</p>
+   <h1>Disclaimer</h1> <p> Segala file yang terdapat pada repo ini murni digunakan sebagai bahan ajar. Terima kasih kepada dosen yang telah memberikan masalah untuk diselesaikan.</p> <p>Beberapa file dalam proyek ini, termasuk file <em>uas-mudah.c</em> dan <em>uas-sedang.c</em>, bukanlah hasil karya asli saya sepenuhnya. Kredit sepenuhnya diberikan kepada pencipta aslinya (CTTO: Credit To The Owner).</p>
 </head>
 <body>
     <h1>Menyortir Berat Durian (Sulit)</h1>
